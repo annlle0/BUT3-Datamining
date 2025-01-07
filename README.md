@@ -8,3 +8,4 @@ SOMMAIRE :
 - **`RAPPORT.pdf`** : Le rapport commentant les résultats du code.
 - **`Description du Jeu de Données - Bank Marketing.pdf`** : La description du jeu de données.
 - **`SAE Data Mining.pdf`** : L'énoncé du sujet.
+- **`banque_marketing.csv`** : Le jeu de données.
